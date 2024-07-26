@@ -1,0 +1,18 @@
+	 REIGNING RESOLUTION
+ Bill Number:691852578
+ Customer Name:Utsavi Patel
+ Phone Number:9429818832
+ Customer Email:utsavipatel2610@gmail.com
+ Time: 2021-07-20 11:29:19.879139
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Cover        		1	315
+ Rockerz 450  		1	1400
+
+========================================
+ Sub Total:		Rs.1715.00
+ Tax Total:		Rs.3.15
+ Grand Total:		Rs.1718.15
+========================================

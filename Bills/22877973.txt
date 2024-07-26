@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:22877973
+ Customer Name:Avadh
+ Phone Number:94949384948
+ Customer Email:avadh.n@GMAIL.COM
+ Time: 2023-08-25 19:14:55.663901
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Iphone_12    		4	340000
+
+========================================
+ Sub Total:		Rs.340000.00
+ Tax Total:		Rs.4250.00
+ Grand Total:		Rs.344250.00
+========================================

@@ -1,0 +1,20 @@
+	 PHONE WALE
+ Bill Number:207713378
+ Customer Name:Akshat Patel
+ Phone Number:9409040560
+ Customer Email:akshatpatel1912005@gmail.com
+ Time: 2021-07-21 13:00:03.097486
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Reno 6 Pro   		1	40000
+ HP           		1	1800
+ Cover        		1	250
+ OTG          		1	80
+
+========================================
+ Sub Total:		Rs.42130.00
+ Tax Total:		Rs.420.50
+ Grand Total:		Rs.42550.50
+========================================

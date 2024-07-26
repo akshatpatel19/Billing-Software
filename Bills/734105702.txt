@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:734105702
+ Customer Name:Krish
+ Phone Number:934723910
+ Customer Email:kasjah@jahsjan.com
+ Time: 2024-02-07 15:00:28.048798
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Iphone_12    		1	85000
+
+========================================
+ Sub Total:		Rs.85000.00
+ Tax Total:		Rs.1700.00
+ Grand Total:		Rs.86700.00
+========================================

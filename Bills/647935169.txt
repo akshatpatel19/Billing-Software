@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:647935169
+ Customer Name:Akshat Patel
+ Phone Number:9409040560
+ Customer Email:akshatpatel1901@gmail.com
+ Time: 2022-05-28 14:36:07.210073
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Iphone_12    		1	85000
+
+========================================
+ Sub Total:		Rs.85000.00
+ Tax Total:		Rs.1700.00
+ Grand Total:		Rs.86700.00
+========================================

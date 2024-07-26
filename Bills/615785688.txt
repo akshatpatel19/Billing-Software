@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:615785688
+ Customer Name:Praful Patel
+ Phone Number:9409040560
+ Customer Email:prafulpatel1901@gmail.com
+ Time: 2021-07-25 16:39:14.683290
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Redmi Note 9 		1	11500
+
+========================================
+ Sub Total:		Rs.11500.00
+ Tax Total:		Rs.0.00
+ Grand Total:		Rs.11500.00
+========================================

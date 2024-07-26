@@ -1,0 +1,18 @@
+	           REIGNING RESOLUTION
+ Bill Number:393305564
+ Customer Name:jainik
+ Phone Number:6656565445
+ Customer Email:adnd
+ Time: 2023-11-06 10:14:55.078759
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Mi 10i       		1	24000
+ Mi 10i       		1	24000
+
+========================================
+ Sub Total:		Rs.48000.00
+ Tax Total:		Rs.720.00
+ Grand Total:		Rs.48720.00
+========================================

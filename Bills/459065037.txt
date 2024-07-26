@@ -1,0 +1,21 @@
+	           REIGNING RESOLUTION
+ Bill Number:459065037
+ Customer Name:jay shah 
+ Phone Number:9723557662
+ Customer Email:jay_shah@outlook.in
+ Time: 2023-11-27 14:07:40.516867
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ OnePlus 9 Pro		3	210000
+
+========================================
+ Sub Total:		Rs.210000.00
+ Tax Total:		Rs.2800.00
+
+========================================
+ Sub Total:		Rs.210000.00
+ Tax Total:		Rs.2800.00
+ Grand Total:		Rs.212800.00
+========================================

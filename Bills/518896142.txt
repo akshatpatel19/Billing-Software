@@ -1,0 +1,18 @@
+	           REIGNING RESOLUTION
+ Bill Number:518896142
+ Customer Name:Jainik
+ Phone Number:97675666
+ Customer Email:sajhaj@usjia.on
+ Time: 2023-11-07 15:25:55.409620
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Buds Z       		1	3000
+ Bullets      		1	2000
+
+========================================
+ Sub Total:		Rs.5000.00
+ Tax Total:		Rs.70.00
+ Grand Total:		Rs.5070.00
+========================================

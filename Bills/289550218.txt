@@ -1,0 +1,19 @@
+	           REIGNING RESOLUTION
+ Bill Number:289550218
+ Customer Name:Parth
+ Phone Number:93838227392
+ Customer Email:jajajva@gmail.com
+ Time: 2023-09-27 21:33:14.264953
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Buds Q       		1	2000
+ Iphone_12    		1	85000
+ Sandisk      		1	1500
+
+========================================
+ Sub Total:		Rs.88500.00
+ Tax Total:		Rs.900.00
+ Grand Total:		Rs.89400.00
+========================================

@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:407315903
+ Customer Name:hrtuik shah
+ Phone Number:9879303035
+ Customer Email:hritik.padaynuo
+ Time: 2024-01-17 11:44:59.490496
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Iphone_12    		2	170000
+
+========================================
+ Sub Total:		Rs.170000.00
+ Tax Total:		Rs.2550.00
+ Grand Total:		Rs.172550.00
+========================================

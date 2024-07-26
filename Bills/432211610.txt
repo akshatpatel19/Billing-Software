@@ -1,0 +1,18 @@
+	           REIGNING RESOLUTION
+ Bill Number:432211610
+ Customer Name:Nisarg
+ Phone Number:9409040560
+ Customer Email:nnn@gmail.com
+ Time: 2022-02-27 10:23:22.887426
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ RealMe 8     		1	16000
+ HP           		1	1800
+
+========================================
+ Sub Total:		Rs.17800.00
+ Tax Total:		Rs.196.00
+ Grand Total:		Rs.17996.00
+========================================

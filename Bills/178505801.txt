@@ -1,0 +1,17 @@
+	           REIGNING RESOLUTION
+ Bill Number:178505801
+ Customer Name:Subraditya
+ Phone Number:9409040560
+ Customer Email:subra123@gmail.com
+ Time: 2022-04-04 09:07:38.189158
+========================================
+ PRODUCTS		QTY	PRICE
+========================================
+
+ Airdopes 101 		1	1300
+
+========================================
+ Sub Total:		Rs.1300.00
+ Tax Total:		Rs.26.00
+ Grand Total:		Rs.1326.00
+========================================
