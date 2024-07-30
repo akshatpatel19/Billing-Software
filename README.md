@@ -1,1 +1,1 @@
-# Billing-Software
+This is a Billing Software which could create bills, save them and print them, This Software have pre-added item available and creates the bill with adding the appropriate amount of taxes to them, Also whenever someone come to return something, this software can also retrieve the saved bills using the Bill Number.
